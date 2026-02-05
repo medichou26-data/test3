@@ -1,0 +1,17 @@
+{
+    "university_name": "Universit\u00e9 Azure",
+    "max_students": 1000,
+    "min_age": 16,
+    "max_age": 70,
+    "specialties": [
+        "Informatique",
+        "Math\u00e9matiques",
+        "Physique",
+        "Chimie",
+        "Biologie",
+        "\u00c9conomie",
+        "Droit",
+        "M\u00e9decine"
+    ],
+    "version": "1.0.0"
+}
